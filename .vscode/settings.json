@@ -1,0 +1,14 @@
+{
+    "cSpell.words": [],
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true
+    },
+    "editor.tabSize": 2,
+    "search.exclude": {
+        "**/node_modules": true,
+        "**/bower_components": true,
+        "**/*.code-search": true,
+        "**/build": true
+    },
+    "typescript.tsdk": "node_modules/typescript/lib"
+}
